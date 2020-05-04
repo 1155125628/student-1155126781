@@ -1,26 +1,24 @@
-##My name
+## My name
 **_Sunny_**
 
-##Personal information
-|  Major  |  CENG |
-| College |   UC  |
+## My developing skill
+| Language | Knowledge |
+|:--------:|:---------:|
+|    C++   |     OK    |
+|     C    |     OK    |
+|   Java   |    Poor   |
 
-##My developing skill
-|  C++  |  OK  |
-|   C   |  OK  |
-|  Java | Poor |
-
-##Experience in Github
+## Experience in Github
 - Fun
 - New
 - Hard
 
-##Task List
+## Task List
 - [x] Milestone1
 - [x] Milestone2
 - [ ] Milestone3
 
-##Course I have taken this semester
+## Course I have taken this semester
 |                  Course Name                 | Course Code | Credit |
 |:--------------------------------------------:|:-----------:|:------:|
 |             Computers and Society            |   CSCI3250  |    2   |
